@@ -1,0 +1,22 @@
+.welcome-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #f32727;
+}
+
+.auth-btn {
+  background-color: #1080d1;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  height: 45px;
+  width: 150px;
+  margin: 10px;
+  font-size: 22px;
+}
